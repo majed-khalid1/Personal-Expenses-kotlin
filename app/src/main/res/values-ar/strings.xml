@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">متتبع المصاريف الذكي</string>
+    <string name="tagline">اعرف أين يذهب كل ريال.</string>
+
+    <string name="tab_login">تسجيل الدخول</string>
+    <string name="tab_signup">إنشاء حساب</string>
+
+    <string name="login_title">مرحبًا بعودتك</string>
+    <string name="login_subtitle">سجّل دخولك لمتابعة مصاريفك.</string>
+    <string name="signup_title">أنشئ حسابك</string>
+    <string name="signup_subtitle">مجاني، وكل الميزات متاحة.</string>
+
+    <string name="label_name">الاسم الكامل</string>
+    <string name="label_email">البريد الإلكتروني</string>
+    <string name="label_password">كلمة المرور</string>
+    <string name="hint_name">اسمك</string>
+    <string name="hint_email">you@example.com</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="hint_new_password">أنشئ كلمة مرور</string>
+    <string name="password_rule">٨ أحرف على الأقل، وتتضمن رقمًا.</string>
+
+    <string name="show_password">إظهار كلمة المرور</string>
+    <string name="hide_password">إخفاء كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="keep_logged_in">ابقَ مسجّلًا للدخول</string>
+
+    <string name="agree_terms">أوافق على الشروط وقد قرأت إشعار الخصوصية.</string>
+    <string name="ai_consent">اسمح للمدرب الذكي باستخدام ملخصات مصاريفي لاقتراح الميزانيات.</string>
+    <string name="ai_consent_optional">اختياري، ويمكنك تغييره في أي وقت من إعدادات الخصوصية.</string>
+
+    <string name="btn_login">تسجيل الدخول</string>
+    <string name="btn_create">إنشاء الحساب</string>
+    <string name="new_here">جديد هنا؟</string>
+    <string name="create_account_link">أنشئ حسابًا</string>
+    <string name="have_account">لديك حساب بالفعل؟</string>
+    <string name="login_link">سجّل الدخول</string>
+
+    <string name="privacy_footer">لا يتم حفظ رسائل SMS الأصلية أبدًا.</string>
+
+    <string name="err_name">أدخل اسمك.</string>
+    <string name="err_email">أدخل بريدًا إلكترونيًا صحيحًا.</string>
+    <string name="err_password_empty">أدخل كلمة المرور.</string>
+    <string name="err_password_rule">استخدم ٨ أحرف على الأقل، وتتضمن رقمًا.</string>
+    <string name="err_terms">يجب الموافقة على الشروط وإشعار الخصوصية.</string>
+
+    <string name="forgot_toast">استعادة كلمة المرور غير مفعّلة بعد.</string>
+    <string name="home_title">تم تسجيل الدخول</string>
+    <string name="home_body">مسجّل باسم %1$s. لوحة التحكم هي الخطوة التالية.</string>
+    <string name="logout">تسجيل الخروج</string>
+</resources>

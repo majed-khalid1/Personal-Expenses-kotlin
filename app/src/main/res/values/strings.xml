@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Expense Tracker</string>
+    <string name="tagline">Know where every riyal goes.</string>
+
+    <string name="tab_login">Log in</string>
+    <string name="tab_signup">Sign up</string>
+
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Log in to keep tracking your spending.</string>
+    <string name="signup_title">Create your account</string>
+    <string name="signup_subtitle">Free, with every feature included.</string>
+
+    <string name="label_name">Full name</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="hint_name">Your name</string>
+    <string name="hint_email">you@example.com</string>
+    <string name="hint_password">Your password</string>
+    <string name="hint_new_password">Create a password</string>
+    <string name="password_rule">At least 8 characters, including a number.</string>
+
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="keep_logged_in">Keep me logged in</string>
+
+    <string name="agree_terms">I agree to the Terms and have read the Privacy notice.</string>
+    <string name="ai_consent">Let the AI coach use summaries of my spending to suggest budgets.</string>
+    <string name="ai_consent_optional">Optional, change it anytime in Privacy settings.</string>
+
+    <string name="btn_login">Log in</string>
+    <string name="btn_create">Create account</string>
+    <string name="new_here">New here?</string>
+    <string name="create_account_link">Create an account</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="login_link">Log in</string>
+
+    <string name="privacy_footer">Raw SMS messages are never stored.</string>
+
+    <string name="err_name">Enter your name.</string>
+    <string name="err_email">Enter a valid email address.</string>
+    <string name="err_password_empty">Enter your password.</string>
+    <string name="err_password_rule">Use at least 8 characters, including a number.</string>
+    <string name="err_terms">You need to accept the Terms and Privacy notice.</string>
+
+    <string name="forgot_toast">Password reset is not connected yet.</string>
+    <string name="home_title">You\'re in</string>
+    <string name="home_body">Signed in as %1$s. The dashboard comes next.</string>
+    <string name="logout">Log out</string>
+</resources>
