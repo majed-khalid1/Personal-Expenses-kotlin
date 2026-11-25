@@ -48,4 +48,22 @@
     <string name="home_title">You\'re in</string>
     <string name="home_body">Signed in as %1$s. The dashboard comes next.</string>
     <string name="logout">Log out</string>
+    <string name="auth_signin_failed">Could not sign in. Check your email and password and try again.</string>
+    <string name="auth_signup_failed">Could not create your account. Check your details and try again.</string>
+    <string name="auth_verify_failed">Could not verify the code. Check it and try again.</string>
+    <string name="auth_send_recovery_failed">Could not send the email code. Please try again.</string>
+    <string name="auth_code_requested">Check your email for a new code.</string>
+    <string name="auth_reset_failed">Could not reset your password. Check the code and try again.</string>
+    <string name="auth_password_updated">Password updated. Sign in with your new password.</string>
+    <string name="auth_signout_failed">Could not sign out. Please try again.</string>
+    <string name="auth_recovery_hint">Enter your email to request a password reset code.</string>
+    <string name="auth_send_code">Send reset code</string>
+    <string name="auth_set_password_title">Set a new password</string>
+    <string name="auth_set_password_hint">If an account exists for %1$s, check that inbox for a reset code.</string>
+    <string name="auth_email_code">Email code</string>
+    <string name="auth_save_password">Save new password</string>
+    <string name="auth_request_another_code">Request another code</string>
+    <string name="auth_verify_title">Verify your email</string>
+    <string name="auth_verify_hint">Enter the verification code sent to %1$s.</string>
+    <string name="auth_verify_button">Verify email</string>
 </resources>

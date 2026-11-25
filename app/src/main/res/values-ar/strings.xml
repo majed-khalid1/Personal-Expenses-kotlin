@@ -48,4 +48,20 @@
     <string name="home_title">تم تسجيل الدخول</string>
     <string name="home_body">مسجّل باسم %1$s. لوحة التحكم هي الخطوة التالية.</string>
     <string name="logout">تسجيل الخروج</string>
+    <string name="auth_signin_failed">تعذّر تسجيل الدخول. تحقّق من بريدك الإلكتروني وكلمة المرور وحاول مرة أخرى.</string>
+    <string name="auth_signup_failed">تعذّر إنشاء حسابك. تحقّق من بياناتك وحاول مرة أخرى.</string>
+    <string name="auth_verify_failed">تعذّر التحقّق من الرمز. تأكّد من صحته وحاول مرة أخرى.</string>
+    <string name="auth_send_recovery_failed">تعذّر إرسال الرمز إلى بريدك الإلكتروني. حاول مرة أخرى.</string>
+    <string name="auth_code_requested">تحقّق من بريدك الإلكتروني للعثور على الرمز الجديد.</string>
+    <string name="auth_reset_failed">تعذّر إعادة تعيين كلمة المرور. تحقّق من الرمز وحاول مرة أخرى.</string>
+    <string name="auth_password_updated">تم تحديث كلمة المرور. سجّل الدخول باستخدام كلمة المرور الجديدة.</string>
+    <string name="auth_signout_failed">تعذّر تسجيل الخروج. حاول مرة أخرى.</string>
+    <string name="auth_recovery_hint">أدخل بريدك الإلكتروني لطلب رمز إعادة تعيين كلمة المرور.</string>
+    <string name="auth_send_code">إرسال رمز إعادة التعيين</string><string name="auth_set_password_title">تعيين كلمة مرور جديدة</string>
+    <string name="auth_set_password_hint">إذا كان هناك حساب مرتبط بالبريد الإلكتروني %1$s، فتحقّق من صندوق الوارد للعثور على رمز إعادة تعيين كلمة المرور.</string>
+    <string name="auth_email_code">رمز البريد الإلكتروني</string>
+    <string name="auth_save_password">حفظ كلمة المرور الجديدة</string>
+    <string name="auth_request_another_code">طلب رمز آخر</string><string name="auth_verify_title">تحقّق من بريدك الإلكتروني</string>
+    <string name="auth_verify_hint">أدخل رمز التحقّق المُرسَل إلى %1$s.</string>
+    <string name="auth_verify_button">تحقّق من البريد الإلكتروني</string>
 </resources>
